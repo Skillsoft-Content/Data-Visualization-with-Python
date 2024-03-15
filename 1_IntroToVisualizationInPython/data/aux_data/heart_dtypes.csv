@@ -1,0 +1,14 @@
+index,0
+Age,Int64
+Sex,object
+ChestPainType,object
+RestingBP,Int64
+Cholesterol,Int64
+FastingBS,object
+RestingECG,object
+MaxHR,Int64
+ExerciseAngina,object
+Oldpeak,Float64
+ST_Slope,object
+HeartDisease,object
+id,int64
