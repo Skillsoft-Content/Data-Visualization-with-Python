@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+models/*.pkl
+outputs/
+data/quote_data.csv
+.env
